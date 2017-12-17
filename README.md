@@ -42,3 +42,4 @@ function longid(uid) {
 }
 
 ```
+Лицензия MIT 
